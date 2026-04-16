@@ -1,2 +1,1 @@
-# SurrogateModels
-Surrogate Models
+# Surrogate Model
